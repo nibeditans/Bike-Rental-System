@@ -15,7 +15,7 @@ The program provides options to display the available stock, rent bikes by speci
 
 1. Clone the repository:
 
-    git clone https://github.com/nibeditans/Bike_Rental_System.git
+    git clone https://github.com/nibeditans/Bike-Rental-System.git
 
 2. Navigate to the project directory:
 
